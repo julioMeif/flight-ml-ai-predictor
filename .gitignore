@@ -1,0 +1,10 @@
+# backend/.gitignore
+venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+data/
+models/
+modeling/train_model_azure.py
+data_collection/*_internal.py
